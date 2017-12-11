@@ -1,2 +1,3 @@
 # cazibear
-My GitHub pages repo
+My GitHub pages repo [link](cazibear.github.io)
+
