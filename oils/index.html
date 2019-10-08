@@ -6,7 +6,7 @@
 	<title>PoE Annointing</title>
 	<link rel="stylesheet" href="normalize.css">
 	<link rel="stylesheet" href="style.css">
-	<script source="main.js"></script>
+	<script src="main.js"></script>
 </head>
 <body>
 	<div class="outer-parent">
@@ -15,13 +15,26 @@
 		</header>
 		<div class="outer-child inner-parent">
 			<div class="inner-child side">
-				<p>selecting</p>
+				<h2>How many of each oil do you have?</h2>
+				<div class="inputs">
+					<input type="number" class="oil-input" name="oil-input0"  id="oil-input0"  value=0 min=0 max=3> Clear Oil     <br/>
+					<input type="number" class="oil-input" name="oil-input1"  id="oil-input1"  value=0 min=0 max=3> Sepia Oil     <br/>
+					<input type="number" class="oil-input" name="oil-input2"  id="oil-input2"  value=0 min=0 max=3> Amber Oil     <br/>
+					<input type="number" class="oil-input" name="oil-input3"  id="oil-input3"  value=0 min=0 max=3> Verdant Oil   <br/>
+					<input type="number" class="oil-input" name="oil-input4"  id="oil-input4"  value=0 min=0 max=3> Teal Oil      <br/>
+					<input type="number" class="oil-input" name="oil-input5"  id="oil-input5"  value=0 min=0 max=3> Azure Oil     <br/>
+					<input type="number" class="oil-input" name="oil-input6"  id="oil-input6"  value=0 min=0 max=3> Violet Oil    <br/>
+					<input type="number" class="oil-input" name="oil-input7"  id="oil-input7"  value=0 min=0 max=3> Crimson Oil   <br/>
+					<input type="number" class="oil-input" name="oil-input8"  id="oil-input8"  value=0 min=0 max=3> Black Oil     <br/>
+					<input type="number" class="oil-input" name="oil-input9"  id="oil-input9"  value=0 min=0 max=3> Opalescent Oil<br/>
+					<input type="number" class="oil-input" name="oil-input10" id="oil-input10" value=0 min=0 max=3> Silver Oil    <br/>
+					<input type="number" class="oil-input" name="oil-input11" id="oil-input11" value=0 min=0 max=3> Golden Oil    <br/>
+				</div>
+				<button onclick="a()">Check Oils</button>
 			</div>
 			<div class="inner-child main">
-				<p>output</p>
-			</div>
-			<div class="inner-child side">
-				<p>selecting</p>
+				<h2>Output</h2>
+				<div id="output">Output goes here</div>
 			</div>
 		</div>
 		<footer class="outer-child">
