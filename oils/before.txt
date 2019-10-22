@@ -1,0 +1,316 @@
+div#output
+​
+accessKey: ""
+​
+accessKeyLabel: ""
+​
+align: ""
+​
+assignedSlot: null
+​
+attributes: NamedNodeMap [ id="output" ]
+​
+baseURI: "http://localhost:8080/index.html"
+​
+childElementCount: 1
+​
+childNodes: NodeList [ table ]
+​
+children: HTMLCollection [ table ]
+​
+classList: DOMTokenList []
+​
+className: ""
+​
+clientHeight: 720
+​
+clientLeft: 0
+​
+clientTop: 0
+​
+clientWidth: 865
+​
+contentEditable: "inherit"
+​
+contextMenu: null
+​
+dataset: DOMStringMap(0)
+​
+dir: ""
+​
+draggable: false
+​
+firstChild: <table>
+​
+firstElementChild: <table>
+​
+hidden: false
+​
+id: "output"
+​
+innerHTML: "<table><tr><th>Name</th><th>Oil 1</th><th>Oil 2</th><th>Oil 3</th><th>Effect</th></tr><tr><td>Gravepact</td><td>Azure</td><td>Black</td><td>Black</td><td>Minions deal 15% increased Damage,30% increased Minion Accuracy Rating,Minions have 8% increased Attack Speed,Minions have 5% chance to deal Double Damage</td></tr><tr><td>Slaughter</td><td>Azure</td><td>Azure</td><td>Azure</td><td>25% increased Physical Damage with Axes,25% increased Damage with Ailments from Attack Skills while wielding an Axe,10% chance to gain Onslaught for 4 seconds on Kill,8% increased Attack Speed with Axes</td></tr><tr><td>Prodigal Perfection</td><td>Clear</td><td>Azure</td><td>Azure</td><td>15% increased maximum Mana,10% increased Spell Damage,2% increased Spell Damage per 100 Maximum Mana, up to 40%</td></tr><tr><td>Sanctity</td><td>Azure</td><td>Azure</td><td>Black</td><td>+10 to Strength and Intelligence,20% increased Armour,10% increased maximum Energy Shield,Regenerate 1% of Life per second</td></tr><tr><td>Precision</td><td>Amber</td><td>Black</td><td>Black</td><td>+20 to Dexterity,10% increased Global Accuracy Rating,4% increased Movement Speed,5% increased Attack and Cast Speed</td></tr><tr><td>Poisonous Fangs</td><td>Clear</td><td>Amber</td><td>Azure</td><td>20% increased Damage with Claws,10% increased Poison Duration,10% chance to Poison on Hit with Attacks,20% increased Damage with Ailments from Attack Skills while wielding a Claw,+5% to Damage over Time Multiplier for Poison</td></tr><tr><td>Exceptional Performance</td><td>Clear</td><td>Amber</td><td>Black</td><td>25% increased Skill Effect Duration</td></tr><tr><td>Ambidexterity</td><td>Amber</td><td>Azure</td><td>Black</td><td>50% increased Attack Damage with Main Hand,20% increased Attack Speed with Off Hand,Attack Skills deal 50% increased Damage with Ailments while Dual Wielding</td></tr><tr><td>Twin Terrors</td><td>Clear</td><td>Azure</td><td>Black</td><td>75% increased Weapon Critical Strike Chance while Dual Wielding,12% increased Accuracy Rating while Dual Wielding</td></tr><tr><td>Explosive Runes</td><td>Amber</td><td>Azure</td><td>Azure</td><td>You can Cast an additional Brand,20% increased Damage with Brand Skills,10% increased Brand Attachment range</td></tr><tr><td>Lethal Assault</td><td>Clear</td><td>Black</td><td>Black</td><td>18% increased Damage,10% increased Projectile Speed,10% increased Area of Effect</td></tr></table>"
+​
+innerText: "Name\tOil 1\tOil 2\tOil 3\tEffect\nGravepact\tAzure\tBlack\tBlack\tMinions deal 15% increased Damage,30% increased Minion Accuracy Rating,Minions have 8% increased Attack Speed,Minions have 5% chance to deal Double Damage\nSlaughter\tAzure\tAzure\tAzure\t25% increased Physical Damage with Axes,25% increased Damage with Ailments from Attack Skills while wielding an Axe,10% chance to gain Onslaught for 4 seconds on Kill,8% increased Attack Speed with Axes\nProdigal Perfection\tClear\tAzure\tAzure\t15% increased maximum Mana,10% increased Spell Damage,2% increased Spell Damage per 100 Maximum Mana, up to 40%\nSanctity\tAzure\tAzure\tBlack\t+10 to Strength and Intelligence,20% increased Armour,10% increased maximum Energy Shield,Regenerate 1% of Life per second\nPrecision\tAmber\tBlack\tBlack\t+20 to Dexterity,10% increased Global Accuracy Rating,4% increased Movement Speed,5% increased Attack and Cast Speed\nPoisonous Fangs\tClear\tAmber\tAzure\t20% increased Damage with Claws,10% increased Poison Duration,10% chance to Poison on Hit with Attacks,20% increased Damage with Ailments from Attack Skills while wielding a Claw,+5% to Damage over Time Multiplier for Poison\nExceptional Performance\tClear\tAmber\tBlack\t25% increased Skill Effect Duration\nAmbidexterity\tAmber\tAzure\tBlack\t50% increased Attack Damage with Main Hand,20% increased Attack Speed with Off Hand,Attack Skills deal 50% increased Damage with Ailments while Dual Wielding\nTwin Terrors\tClear\tAzure\tBlack\t75% increased Weapon Critical Strike Chance while Dual Wielding,12% increased Accuracy Rating while Dual Wielding\nExplosive Runes\tAmber\tAzure\tAzure\tYou can Cast an additional Brand,20% increased Damage with Brand Skills,10% increased Brand Attachment range\nLethal Assault\tClear\tBlack\tBlack\t18% increased Damage,10% increased Projectile Speed,10% increased Area of Effect"
+​
+isConnected: true
+​
+isContentEditable: false
+​
+lang: ""
+​
+lastChild: <table>
+​
+lastElementChild: <table>
+​
+localName: "div"
+​
+namespaceURI: "http://www.w3.org/1999/xhtml"
+​
+nextElementSibling: null
+​
+nextSibling: #text "
+			"
+​
+nodeName: "DIV"
+​
+nodeType: 1
+​
+nodeValue: null
+​
+offsetHeight: 720
+​
+offsetLeft: 344
+​
+offsetParent: <body>
+​
+offsetTop: 173
+​
+offsetWidth: 865
+​
+onabort: null
+​
+onanimationcancel: null
+​
+onanimationend: null
+​
+onanimationiteration: null
+​
+onanimationstart: null
+​
+onauxclick: null
+​
+onblur: null
+​
+oncanplay: null
+​
+oncanplaythrough: null
+​
+onchange: null
+​
+onclick: null
+​
+onclose: null
+​
+oncontextmenu: null
+​
+oncopy: null
+​
+oncuechange: null
+​
+oncut: null
+​
+ondblclick: null
+​
+ondrag: null
+​
+ondragend: null
+​
+ondragenter: null
+​
+ondragexit: null
+​
+ondragleave: null
+​
+ondragover: null
+​
+ondragstart: null
+​
+ondrop: null
+​
+ondurationchange: null
+​
+onemptied: null
+​
+onended: null
+​
+onerror: null
+​
+onfocus: null
+​
+onfullscreenchange: null
+​
+onfullscreenerror: null
+​
+ongotpointercapture: null
+​
+oninput: null
+​
+oninvalid: null
+​
+onkeydown: null
+​
+onkeypress: null
+​
+onkeyup: null
+​
+onload: null
+​
+onloadeddata: null
+​
+onloadedmetadata: null
+​
+onloadend: null
+​
+onloadstart: null
+​
+onlostpointercapture: null
+​
+onmousedown: null
+​
+onmouseenter: null
+​
+onmouseleave: null
+​
+onmousemove: null
+​
+onmouseout: null
+​
+onmouseover: null
+​
+onmouseup: null
+​
+onmozfullscreenchange: null
+​
+onmozfullscreenerror: null
+​
+onpaste: null
+​
+onpause: null
+​
+onplay: null
+​
+onplaying: null
+​
+onpointercancel: null
+​
+onpointerdown: null
+​
+onpointerenter: null
+​
+onpointerleave: null
+​
+onpointermove: null
+​
+onpointerout: null
+​
+onpointerover: null
+​
+onpointerup: null
+​
+onprogress: null
+​
+onratechange: null
+​
+onreset: null
+​
+onresize: null
+​
+onscroll: null
+​
+onseeked: null
+​
+onseeking: null
+​
+onselect: null
+​
+onselectstart: null
+​
+onshow: null
+​
+onstalled: null
+​
+onsubmit: null
+​
+onsuspend: null
+​
+ontimeupdate: null
+​
+ontoggle: null
+​
+ontransitioncancel: null
+​
+ontransitionend: null
+​
+ontransitionrun: null
+​
+ontransitionstart: null
+​
+onvolumechange: null
+​
+onwaiting: null
+​
+onwebkitanimationend: null
+​
+onwebkitanimationiteration: null
+​
+onwebkitanimationstart: null
+​
+onwebkittransitionend: null
+​
+onwheel: null
+​
+outerHTML: "<div id=\"output\"><table><tr><th>Name</th><th>Oil 1</th><th>Oil 2</th><th>Oil 3</th><th>Effect</th></tr><tr><td>Gravepact</td><td>Azure</td><td>Black</td><td>Black</td><td>Minions deal 15% increased Damage,30% increased Minion Accuracy Rating,Minions have 8% increased Attack Speed,Minions have 5% chance to deal Double Damage</td></tr><tr><td>Slaughter</td><td>Azure</td><td>Azure</td><td>Azure</td><td>25% increased Physical Damage with Axes,25% increased Damage with Ailments from Attack Skills while wielding an Axe,10% chance to gain Onslaught for 4 seconds on Kill,8% increased Attack Speed with Axes</td></tr><tr><td>Prodigal Perfection</td><td>Clear</td><td>Azure</td><td>Azure</td><td>15% increased maximum Mana,10% increased Spell Damage,2% increased Spell Damage per 100 Maximum Mana, up to 40%</td></tr><tr><td>Sanctity</td><td>Azure</td><td>Azure</td><td>Black</td><td>+10 to Strength and Intelligence,20% increased Armour,10% increased maximum Energy Shield,Regenerate 1% of Life per second</td></tr><tr><td>Precision</td><td>Amber</td><td>Black</td><td>Black</td><td>+20 to Dexterity,10% increased Global Accuracy Rating,4% increased Movement Speed,5% increased Attack and Cast Speed</td></tr><tr><td>Poisonous Fangs</td><td>Clear</td><td>Amber</td><td>Azure</td><td>20% increased Damage with Claws,10% increased Poison Duration,10% chance to Poison on Hit with Attacks,20% increased Damage with Ailments from Attack Skills while wielding a Claw,+5% to Damage over Time Multiplier for Poison</td></tr><tr><td>Exceptional Performance</td><td>Clear</td><td>Amber</td><td>Black</td><td>25% increased Skill Effect Duration</td></tr><tr><td>Ambidexterity</td><td>Amber</td><td>Azure</td><td>Black</td><td>50% increased Attack Damage with Main Hand,20% increased Attack Speed with Off Hand,Attack Skills deal 50% increased Damage with Ailments while Dual Wielding</td></tr><tr><td>Twin Terrors</td><td>Clear</td><td>Azure</td><td>Black</td><td>75% increased Weapon Critical Strike Chance while Dual Wielding,12% increased Accuracy Rating while Dual Wielding</td></tr><tr><td>Explosive Runes</td><td>Amber</td><td>Azure</td><td>Azure</td><td>You can Cast an additional Brand,20% increased Damage with Brand Skills,10% increased Brand Attachment range</td></tr><tr><td>Lethal Assault</td><td>Clear</td><td>Black</td><td>Black</td><td>18% increased Damage,10% increased Projectile Speed,10% increased Area of Effect</td></tr></table></div>"
+​
+ownerDocument: HTMLDocument http://localhost:8080/index.html
+​
+parentElement: <div class="inner-child main">
+​
+parentNode: <div class="inner-child main">
+​
+prefix: null
+​
+previousElementSibling: <h2>
+​
+previousSibling: #text "
+				"
+​
+scrollHeight: 720
+​
+scrollLeft: 0
+​
+scrollLeftMax: 0
+​
+scrollTop: 0
+​
+scrollTopMax: 0
+​
+scrollWidth: 865
+​
+shadowRoot: null
+​
+slot: ""
+​
+spellcheck: false
+​
+style: CSS2Properties(0)
+​
+tabIndex: -1
+​
+tagName: "DIV"
+​
+textContent: "NameOil 1Oil 2Oil 3EffectGravepactAzureBlackBlackMinions deal 15% increased Damage,30% increased Minion Accuracy Rating,Minions have 8% increased Attack Speed,Minions have 5% chance to deal Double DamageSlaughterAzureAzureAzure25% increased Physical Damage with Axes,25% increased Damage with Ailments from Attack Skills while wielding an Axe,10% chance to gain Onslaught for 4 seconds on Kill,8% increased Attack Speed with AxesProdigal PerfectionClearAzureAzure15% increased maximum Mana,10% increased Spell Damage,2% increased Spell Damage per 100 Maximum Mana, up to 40%SanctityAzureAzureBlack+10 to Strength and Intelligence,20% increased Armour,10% increased maximum Energy Shield,Regenerate 1% of Life per secondPrecisionAmberBlackBlack+20 to Dexterity,10% increased Global Accuracy Rating,4% increased Movement Speed,5% increased Attack and Cast SpeedPoisonous FangsClearAmberAzure20% increased Damage with Claws,10% increased Poison Duration,10% chance to Poison on Hit with Attacks,20% increased Damage with Ailments from Attack Skills while wielding a Claw,+5% to Damage over Time Multiplier for PoisonExceptional PerformanceClearAmberBlack25% increased Skill Effect DurationAmbidexterityAmberAzureBlack50% increased Attack Damage with Main Hand,20% increased Attack Speed with Off Hand,Attack Skills deal 50% increased Damage with Ailments while Dual WieldingTwin TerrorsClearAzureBlack75% increased Weapon Critical Strike Chance while Dual Wielding,12% increased Accuracy Rating while Dual WieldingExplosive RunesAmberAzureAzureYou can Cast an additional Brand,20% increased Damage with Brand Skills,10% increased Brand Attachment rangeLethal AssaultClearBlackBlack18% increased Damage,10% increased Projectile Speed,10% increased Area of Effect"
+​
+title: ""
+​
+<prototype>: HTMLDivElementPrototype { align: Getter & Setter, … }
+main.js:28:10
